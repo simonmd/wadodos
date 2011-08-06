@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="/wado2/pretty.xsl"?>
+<results xmlns="http://www.dcm4chee.org/xero/search/study/" xmlns:l="http://www.w3.org/1999/xlink" xmlns:s="http://www.w3.org/2000/svg" xmlns:h="http://www.w3.org/1999/xhtml" ae="local">
+	<patient xmlns:i="http://www.w3.org/2001/XMLSchema-instance" i:type="patientBean" patientNameF="AMADO NIEVES AMB" PatientSex="F" PatientName="AMADO NIEVES AMB" PatientIdentifier="37921166" PatientID="37921166" PatientComments="MASA\HEPATICA">
+		<study i:type="studyBean" StudyDateF="Jun 9, 2011 10:48:02 AM" studyUID="1.2.392.200036.9116.2.6.1.48.1214250941.1307634373.667454" StudyID="1508" StudyDateTime="20110609104802.000" NumberOfStudyRelatedSeries="1" NumberOfStudyRelatedInstances="54" ModalitiesInStudy="CT" InstanceAvailability="ONLINE" AccessionNumber="HRM_BBM-1508"/>
+	</patient>
+	<patient xmlns:i="http://www.w3.org/2001/XMLSchema-instance" i:type="patientBean" patientNameF="FRANCO MANRIQUE ANA MARIA" PatientSex="F" PatientName="FRANCO MANRIQUE ANA MARIA" PatientIdentifier="26769518" PatientID="26769518" PatientComments="NODULO\PULMONAR">
+		<study i:type="studyBean" StudyDateF="Jun 21, 2011 8:52:18 AM" studyUID="1.2.392.200036.9116.2.6.1.48.1214250941.1308659833.75078" StudyID="1580" StudyDateTime="20110621085218.000" NumberOfStudyRelatedSeries="7" NumberOfStudyRelatedInstances="363" ModalitiesInStudy="CT" InstanceAvailability="ONLINE" AccessionNumber="HRM_BBM-1580"/>
+	</patient>
+	<patient xmlns:i="http://www.w3.org/2001/XMLSchema-instance" i:type="patientBean" patientNameF="MOLINA ABRIL, YORS ANDERSON" birthDateF="Oct 13, 1990" PatientSex="M" PatientName="MOLINA ABRIL^YORS ANDERSON" PatientIdentifier="1049622938" PatientID="1049622938" PatientBirthDate="1990-10-13T00:00:00.000-05:00">
+		<study i:type="studyBean" StudyDateF="Jun 22, 2011 8:31:34 AM" studyUID="1.3.12.2.1107.5.1.4.31035.30000011062213102170300000004" StudyID="1" StudyDescription="Abdomen^@ URO TAC (Adulto)" StudyDateTime="20110622083134.687000" ReferringPhysicianName="N UEVA EPS" NumberOfStudyRelatedSeries="2" NumberOfStudyRelatedInstances="83" ModalitiesInStudy="CT" InstanceAvailability="ONLINE" AccessionNumber="CEY-YOP"/>
+	</patient>
+	<patient xmlns:i="http://www.w3.org/2001/XMLSchema-instance" i:type="patientBean" patientNameF="OCHOA DE SANTAMARIA, MAGDALENA" birthDateF="Jun 22, 1941" PatientSex="F" PatientName="OCHOA DE SANTAMARIA^MAGDALENA" PatientIdentifier="29431686" PatientID="29431686" PatientBirthDate="1941-06-22T00:00:00.000-05:00">
+		<study i:type="studyBean" StudyDateF="Jun 22, 2011 9:40:19 AM" studyUID="1.3.12.2.1107.5.1.4.31035.30000011062213102170300000028" StudyID="1" StudyDescription="Cabeza^@ CRANEO  RUTINA (Adulto)" StudyDateTime="20110622094019.468000" ReferringPhysicianName="NUEVA" NumberOfStudyRelatedSeries="2" NumberOfStudyRelatedInstances="19" ModalitiesInStudy="CT" InstanceAvailability="ONLINE" AccessionNumber="CEY-YOP"/>
+	</patient>
+</results>

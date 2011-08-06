@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="/wado2/pretty.xsl"?>
+<results xmlns="http://www.dcm4chee.org/xero/search/study/" xmlns:l="http://www.w3.org/1999/xlink" xmlns:s="http://www.w3.org/2000/svg" xmlns:h="http://www.w3.org/1999/xhtml" ae="local">
+	<patient xmlns:i="http://www.w3.org/2001/XMLSchema-instance" i:type="patientBean" patientNameF="FRANCO MANRIQUE ANA MARIA" PatientSex="F" PatientName="FRANCO MANRIQUE ANA MARIA" PatientIdentifier="26769518" PatientID="26769518" PatientComments="NODULO\PULMONAR">
+		<study i:type="studyBean" StudyDateF="Jun 21, 2011 8:52:18 AM" studyUID="1.2.392.200036.9116.2.6.1.48.1214250941.1308659833.75078" StudyID="1580" StudyDateTime="20110621085218.000" NumberOfStudyRelatedSeries="7" NumberOfStudyRelatedInstances="363" ModalitiesInStudy="CT" InstanceAvailability="ONLINE" AccessionNumber="HRM_BBM-1580">
+			<series i:type="seriesBean" seriesUID="1.2.392.200036.9116.2.6.1.48.1214250941.1308664382.976446" StationName="ID_STATION" SeriesNumber="1" SeriesDescription="2.0" SeriesDateTime="20110621085302.359" PPSStartDateTime="20110621085218.000" Modality="CT" ManufacturerModelName="Activion16" Manufacturer="TOSHIBA" InstitutionalDepartmentName="ID_DEPARTMENT" InstitutionName="Hospital Regional del Magdalena Medio" BodyPartExamined="TORAX"/>
+		</study>
+	</patient>
+</results>
