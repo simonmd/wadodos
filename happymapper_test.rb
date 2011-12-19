@@ -3,7 +3,8 @@ require 'happymapper'
 require 'awesome_print'
 
 #file_contents = File.read("sample_xml/sample_images.xml")
-file_contents = File.read("sample_xml/sample_all_ct.xml")
+#file_contents = File.read("sample_xml/sample_all_ct.xml")
+file_contents = File.read("sample_xml/sample_series_requestimage.xml")
 
 
 class Image
